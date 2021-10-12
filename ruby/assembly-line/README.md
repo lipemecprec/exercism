@@ -1,4 +1,4 @@
-# Assembly Line
+# ![image](https://user-images.githubusercontent.com/65516841/136894909-6ded157e-4157-4569-ba83-b47b625de3cf.png) Assembly Line
 
 Welcome to Assembly Line on Exercism's Ruby Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
