@@ -1,4 +1,4 @@
-# Isogram
+# ![image](https://user-images.githubusercontent.com/65516841/136894997-4adb01c4-d5a9-4532-a66a-f64b495342a7.png) Isogram
 
 Welcome to Isogram on Exercism's Ruby Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
