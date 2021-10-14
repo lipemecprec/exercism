@@ -21,7 +21,6 @@ class BirdCount
   end
 
   def day_without_birds?
-    no_birds_day = @birds_per_day.count(&:zero?)
-    !no_birds_day.zero?
+    @birds_per_day.any?(&:zero?)
   end
 end
