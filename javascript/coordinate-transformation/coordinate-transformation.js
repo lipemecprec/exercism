@@ -56,7 +56,6 @@ export function composeTransform(f, g) {
   return composed;
 }
 
-let cache = {};
 /**
  * Return a function that memoizes the last result.  If the arguments are the same as the last call,
  * then memoized result returned.
